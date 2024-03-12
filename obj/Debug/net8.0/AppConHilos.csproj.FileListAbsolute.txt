@@ -1,0 +1,14 @@
+D:\codigo\dsr\AppConHilos\bin\Debug\net8.0\AppConHilos.exe
+D:\codigo\dsr\AppConHilos\bin\Debug\net8.0\AppConHilos.deps.json
+D:\codigo\dsr\AppConHilos\bin\Debug\net8.0\AppConHilos.runtimeconfig.json
+D:\codigo\dsr\AppConHilos\bin\Debug\net8.0\AppConHilos.dll
+D:\codigo\dsr\AppConHilos\bin\Debug\net8.0\AppConHilos.pdb
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.GeneratedMSBuildEditorConfig.editorconfig
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.AssemblyInfoInputs.cache
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.AssemblyInfo.cs
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.csproj.CoreCompileInputs.cache
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.dll
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\refint\AppConHilos.dll
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.pdb
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\AppConHilos.genruntimeconfig.cache
+D:\codigo\dsr\AppConHilos\obj\Debug\net8.0\ref\AppConHilos.dll
